@@ -2,6 +2,8 @@
 
 WebFileChecker extension / module for OsCommerce / tool / checks detects modified / hacked files / configuration
 
+(see http://forums.oscommerce.com/topic/410334-free-webfilechecker-extension-module-tool-checks-detects-modified-hacked-files-configuration/#entry1748908)
+
 E.g. why is there an error suddenly, has somebody files modified / hacked or was there an update from outside, what has a programmer / supplier modified, have you been hacked etc. Solution a Web File Checker / Detector or a Web Hacked Checker / Detector. Check your webstore on or detect modifications and configuration settings.
 
 I created a module for Magento and because I am too busy I created 1 program for all other webshops that can be run as an cronjob. When I have extra time, I will create a module for the settings of this cronjob and to view the modifications log. If somebody else want to do this job I will update this download and put his/her name on this page. Currently you find all the settings in the beginning of this cronjob like your email address to set. The installation asks for minimal technical skills (or ask your programmer).   
@@ -35,7 +37,7 @@ Installation:
 
 Extension support:
 
-No support (too busy), but a few questions will be answered here.
+No support (too busy), but a few questions will be answered in he OsCommerce forum (see link above).
 
 Only bugs will be fixed later concerning the extension itself.
 
