@@ -2,7 +2,7 @@
 
 WebFileChecker extension / module for OsCommerce / tool / checks detects modified / hacked files / configuration
 
-(see http://forums.oscommerce.com/topic/410334-free-webfilechecker-extension-module-tool-checks-detects-modified-hacked-files-configuration/#entry1748908 or http://ooawebstore.freeforums.org/)
+(see http://forums.oscommerce.com/topic/410334-free-webfilechecker-extension-module-tool-checks-detects-modified-hacked-files-configuration/#entry1748908 or https://ooawebstore.freeforums.org/)
 
 (more info about this module in <a href="https://www.ooawebstore.eu">webstore</a>)
 
