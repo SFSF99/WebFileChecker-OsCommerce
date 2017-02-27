@@ -2,7 +2,7 @@
 
 WebFileChecker extension / module for OsCommerce / tool / checks detects modified / hacked files / configuration
 
-(see http://forums.oscommerce.com/topic/410334-free-webfilechecker-extension-module-tool-checks-detects-modified-hacked-files-configuration/#entry1748908 or https://ooawebstore.freeforums.org/)
+(see http://forums.oscommerce.com/topic/410334-free-webfilechecker-extension-module-tool-checks-detects-modified-hacked-files-configuration/#entry1748908 or the special email address below for some questions)
 
 (more info about this module in <a href="https://www.ooawebstore.eu">webstore</a>)
 
@@ -39,11 +39,9 @@ Installation:
 
 Extension support:
 
-No support (too busy), but a few questions will be answered in he OsCommerce forum (see link above).
+No support (too busy), but a few questions will be answered in he OsCommerce forum (see link above) or on this <a href="mailto:webfilechecker@ooawebstore.eu">special email address</a> (but only domain addresses, no hotmail, gmail etc.)..
 
 Only bugs will be fixed later concerning the extension itself.
-
-Questions will be NEVER answered per email!
 
 
 Extension history:
