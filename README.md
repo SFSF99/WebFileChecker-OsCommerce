@@ -1,4 +1,4 @@
-# WebFileChecker-OsCommerce
+# WebFileChecker-OsCommerce ("Web File Checker")
 
 WebFileChecker extension / module for OsCommerce / tool / checks detects modified / hacked files / configuration
 
